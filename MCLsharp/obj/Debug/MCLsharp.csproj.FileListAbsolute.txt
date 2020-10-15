@@ -1,0 +1,8 @@
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\bin\Debug\MCLsharp.dll
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\bin\Debug\MCLsharp.pdb
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\obj\Debug\MCLsharp.dll
+C:\Users\mbb91\OneDrive\Documents\Visual Studio 2008\Projects\MCLsharp\MCLsharp\obj\Debug\MCLsharp.pdb
